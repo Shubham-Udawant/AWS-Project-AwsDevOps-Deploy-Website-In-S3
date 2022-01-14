@@ -2,4 +2,4 @@
 ----------------------------------------------------------------------------------------------------------------------------------
 Description / Steps:
 
-Tools: Github, S3, CodeBuild, CodePipeline, CodeDeply
+Tools: Github, S3, CodeBuild, CodePipeline, CodeDeploy
