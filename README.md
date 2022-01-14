@@ -1,2 +1,5 @@
-# code-deploy-udemy
-This repository contains all the resources used in the Udemy course.
+# AwsDevOps-Deploy-Website-In-S3
+----------------------------------------------------------------------------------------------------------------------------------
+Description / Steps:
+
+Tools: Github, S3, CodeBuild, CodePipeline, CodeDeply
